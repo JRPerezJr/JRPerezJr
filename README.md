@@ -1,8 +1,7 @@
-# Hi there 👋, I'm Juan
-# Software Engineer
+# Juan Perez Jr | Software Engineer 
 ![Software Engineer](https://user-images.githubusercontent.com/19915910/122672235-6ec4e900-d205-11eb-89f8-db8012889b68.png)
 
-# Juan Perez Jr
+## About me
 I'm Juan from Japan 🇯🇵, a full-stack engineer who enjoys using technology to solve unique problems and improve the lives of others worldwide. I am passionate about building secure, and efficient containerized environments that can be easily deployed in the cloud.
 
 ## Skills and Experience
