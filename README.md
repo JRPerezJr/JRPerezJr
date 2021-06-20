@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan
 #### Software Engineer
-![Software Engineer](https://user-images.githubusercontent.com/19915910/122672048-7e8ffd80-d204-11eb-992e-55dbc1404c1d.png)
+![Software Engineer](https://user-images.githubusercontent.com/19915910/122672235-6ec4e900-d205-11eb-89f8-db8012889b68.png)
 
 I'm Juan from Japan, a full-stack engineer who enjoys using technology to solve unique problems and improve the lives of others worldwide. I am passionate about building secure, and efficient containerized environments that can be easily deployed in the cloud.
 
