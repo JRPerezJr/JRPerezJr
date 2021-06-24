@@ -16,7 +16,7 @@ I'm Juan from Japan 🇯🇵, a full-stack engineer who enjoys using technology 
 * 🛡 Kali Linux | Parrot Security 
 
 
-- 🔭 I’m currently working on MongoDB, Express, React, Node, and PostgresSQL  
+- 🔭 I’m currently working with MongoDB, Express, React, Node, and PostgresSQL  
 - 🌱 I’m currently learning 🦕 Deno
 
 ## Examples of Work
