@@ -17,7 +17,7 @@ I'm Juan from Japan 🇯🇵, a full-stack engineer who enjoys using technology 
 
 
 - 🔭 I’m currently working with MongoDB, Express, React, Node, and PostgresSQL  
-- 🌱 I’m currently learning 🦕 Deno
+- 🌱 I’m currently learning 🦕 Deno and ⚛️ React Native
 
 ## Examples of Work
 <img src="https://user-images.githubusercontent.com/19915910/122673638-51474d80-d20c-11eb-8bbd-2d1ebe85e002.gif" width="256" />
