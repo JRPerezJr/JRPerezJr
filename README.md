@@ -16,7 +16,7 @@ I'm Juan from Japan 🇯🇵, an aspiring software engineer who enjoys using tec
 * 🛡 Kali Linux | Parrot Security 
 
 
-- 🔭 I’m currently building Next.js  
+- 🔭 I’m currently building with Next.js  
 - 🌱 Learn build repeat with Docker and Kubernetes.
 
 
