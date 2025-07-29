@@ -20,7 +20,7 @@ I'm Juan from Japan 🇯🇵, an aspiring software engineer who enjoys using tec
 - 🌱 Learn build repeat with Docker and Kubernetes.
 
 
-[<img src='https://user-images.githubusercontent.com/19915910/122703344-4c29e300-d28c-11eb-80a3-daac634bb198.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/devjperez/) [<img src='https://user-images.githubusercontent.com/19915910/122703810-58627000-d28d-11eb-8211-ee7fba944cc8.png' alt='website' height='40'>](https://jpdevinjp-live.herokuapp.com/)  
+[<img src='https://user-images.githubusercontent.com/19915910/122703344-4c29e300-d28c-11eb-80a3-daac634bb198.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/devjperez/)
 
 ## Stats
 
