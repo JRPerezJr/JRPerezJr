@@ -18,12 +18,3 @@ I'm Juan from Japan 🇯🇵, an aspiring software engineer who enjoys using tec
 
 - 🔭 I’m currently building with Next.js  
 - 🌱 Learn build repeat with Docker and Kubernetes.
-
-
-[<img src='https://user-images.githubusercontent.com/19915910/122703344-4c29e300-d28c-11eb-80a3-daac634bb198.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/devjperez/)
-
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRPerezJr&layout=compact)](https://github.com/JRPerezJr/github-readme-stats)
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRPerezJr&show_icons=true&theme=tokyonight)
